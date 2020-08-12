@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    
+    console.log(123)
   </div>
 </template>
 
